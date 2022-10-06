@@ -168,7 +168,7 @@ pipenv shell
 ### How to run your Streamlit code
 
 ```
-streamlit run file_name.py
+streamlit run image_editor.py
 
 ```
 
